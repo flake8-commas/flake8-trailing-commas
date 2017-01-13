@@ -1,7 +1,7 @@
 0.1.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Deprecated.
 
 
 0.1.2 (2017-01-13)
